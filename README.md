@@ -131,8 +131,17 @@ python index.py
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
+<div align="center">
 
-Made with ❤️ using Streamlit, Flask, and Ultralytics YOLOv11
+Made with ❤️ using Streamlit
+
+## 🙋‍♂️ Author
+
+**[Optimus0205](https://github.com/Optimus0205)**
+
+⭐ If you found this project useful, consider giving it a star!
+
+</div>
 
 ## 🙋 Author
 
