@@ -142,9 +142,3 @@ Made with ❤️ using Streamlit
 ⭐ If you found this project useful, consider giving it a star!
 
 </div>
-
-## 🙋 Author
-
-**[Your Name](https://github.com/<your-username>)**
-
-⭐ If you found this project useful, consider giving it a star!
