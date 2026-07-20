@@ -137,7 +137,7 @@ Made with ❤️ using Streamlit
 
 ## 🙋‍♂️ Author
 
-**Ashutosh Singh**
+# **Ashutosh Singh**
 
 **[Optimus0205](https://github.com/Optimus0205)**
 
